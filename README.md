@@ -1,6 +1,6 @@
 # ipRangePing
 
-Simple powershell script to ping range of IPs
+Simple powershell script to ping range of IPs. Script will print only accessible IPs, unreachable IPs will be omitted.
 
 #Usage
 
